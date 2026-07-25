@@ -8,9 +8,9 @@
 ![Profile 3D Contribution Calendar](https://raw.githubusercontent.com/mohit23ucs172/mohit23ucs172/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-tiwari-2a7459299/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mohit-omega.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohit955ti@gmail.com)
 
 <!-- Profile views + followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mohit23ucs172&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)
