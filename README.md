@@ -51,38 +51,28 @@
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohit23ucs172&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit23ucs172&layout=compact&theme=radical&hide_border=true"/>
-
 </div>
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohit23ucs172&theme=radical&hide_border=true)
-
+<img src="https://streak-stats.demolab.com?user=mohit23ucs172&theme=radical&hide_border=true"/>
 </div>
 
 ---
 
 ### 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohit23ucs172&theme=react-dark&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit23ucs172&theme=react-dark&hide_border=true"/>
 
 ---
 
 ### 🏆 GitHub Trophies
-
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mohit23ucs172&theme=radical&no-frame=true&row=1&column=7)
-
+<img src="https://github-profile-trophy.vercel.app/?username=mohit23ucs172&theme=radical&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
-
 ### 💻 WakaTime — Weekly Coding Stats
 
 <!--START_SECTION:waka-->
