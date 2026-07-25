@@ -50,42 +50,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohit23ucs172&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit23ucs172&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/mohit23ucs172/mohit23ucs172/main/github-metrics.svg"/>
 </div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=mohit23ucs172&theme=radical&hide_border=true"/>
-</div>
-
----
-
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit23ucs172&theme=react-dark&hide_border=true"/>
-
----
-
-### 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohit23ucs172&theme=radical&no-frame=true&row=1&column=7"/>
-</div>
-
----
-### 💻 WakaTime — Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!-- This section auto-updates via GitHub Action once configured -->
-<!--END_SECTION:waka-->
-
----
-
-### 📝 Latest Blog Posts / LeetCode (optional auto-update)
-
-<!--START_SECTION:activity-->
-<!-- Auto-updates via github-readme-activity-feed workflow -->
-<!--END_SECTION:activity-->
 
 ---
 
@@ -102,19 +70,3 @@
 **"Code. Debug. Deploy. Repeat."**
 
 </div>
-
-
-<!--
-**mohit23ucs172/mohit23ucs172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
