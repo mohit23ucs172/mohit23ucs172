@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Mohit+%F0%9F%91%8B;Full+Stack+Developer;B.Tech+CS+%40+NIT+Agartala;MERN+%2B+Spring+Boot+%2B+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Mohit+%F0%9F%91%8B;Full+Stack+Developer;B.Tech+CS+%40+NIT+Agartala;MERN+%2B+Spring+Boot+%2B+Java)](https://git.io/typing-svg)
 
 <!-- Profile 3D contribution graph banner -->
 ![Profile 3D Contribution Calendar](https://raw.githubusercontent.com/mohit23ucs172/mohit23ucs172/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
